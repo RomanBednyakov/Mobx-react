@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render todoComponent 1`] = `
+<todoComponent
+  onClick={[MockFunction]}
+  todo={
+    Object {
+      "completed": false,
+      "id": 1,
+      "text": "text",
+    }
+  }
+/>
+`;
